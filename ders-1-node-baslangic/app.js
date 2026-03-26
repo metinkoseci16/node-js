@@ -1,1 +1,4 @@
-console.log("Node başladı");
+console.log("Node başladı");//console log ile ekrena yazı yazdırdık. Node.js de console.log() fonjsiyonu ile ekrana yazı yazırılabilir.
+//Node.js de JavaScript kodları çalıştırılır. Node.js, JavaScript kodlarını sunucu tarafında çalıştırmak için kullanılan bir platformdur. Bu nedenle, JavaScript kodlarını yazarken Node.js özelliklerini kullanabiliriz.
+//  Örneğin, dosya işlemleri, ağ işlemleri gibi işlemleri gerçekleştirebiliriz. Ayrıca, Node.js de modüller kullanarak kodlarımızı daha düzenli ve modüler hale getirebiliriz. Modüller,
+//  belirli bir işlevi yerine getiren kod parçacıklarıdır ve diğer dosyalarda kullanılabilirler. Node.js de modüller oluşturmak ve kullanmak oldukça kolaydır.
